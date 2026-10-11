@@ -1,3 +1,4 @@
 # ejercicio-examen-simulacro
 
-Este es el simulacro del examen
+Ejercico: Crea un fichero solución.txt
+
